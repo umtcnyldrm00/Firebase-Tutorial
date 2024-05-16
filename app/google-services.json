@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343207735700",
+    "project_id": "fire-78eb0",
+    "storage_bucket": "fire-78eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343207735700:android:3e4a07ee92a5c1c158df81",
+        "android_client_info": {
+          "package_name": "com.pulsetech.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4w1iC6ylE1sc4PPlZlRqWrtbQ4tGLjJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
